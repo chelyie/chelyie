@@ -7,13 +7,13 @@
 
 ---
 
-## 🌐 My Socials
+## My Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/michellesonio/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/michelle.sonio.16/)  
 
 
 ---
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python)
@@ -35,3 +35,27 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+## Random Dev Quote
+
+> _"Every great programmer was once a beginner who struggled, failed, and kept going. Don't fear the bugs or errors—they're just steps toward mastery."_
+
+— **Anonymous**
+
+## 🧪💖✨ Let's Collaborate!
+
+I'm enthusiastic about collaborating on innovative projects. If you have ideas or projects related to programming, web development, or anything else that can contribute to my growth, let's discuss and explore the possibilities
+
+### Thank you✨
+
+Happy coding! 🚀
