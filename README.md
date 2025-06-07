@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <style>
-    .typewriter h1 {
-      color: #FF75D1;
-      overflow: hidden;
-      border-right: .15em solid #FF75D1;
-      white-space: nowrap;
-      margin: 0 auto;
-      letter-spacing: .1em;
-      animation: typing 3s steps(30, end), blink-caret .75s step-end infinite;
-    }
-
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-
-    @keyframes blink-caret {
-      from, to { border-color: transparent }
-      50% { border-color: #FF75D1; }
-    }
-  </style>
-</head>
-<body>
-  <div class="typewriter">
-    <h1>🌸 Hello, World! 🌏 Kamusta, Mundo!</h1>
-  </div>
-</body>
-</html>
+##  Hello, World! ジ
 
 🌷 I'm currently a 4th  Year student at ICCT Colleges, working on exciting projects related to AI, cloud, and web development.  
 🌐 I'm always open to learning, collaborating, and improving.  
