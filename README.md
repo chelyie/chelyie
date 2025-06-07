@@ -36,7 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
-## GitHub Stats
+<h2 align="center" style="color:#ff69b4;">💖 GitHub Stats 💖</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -46,16 +46,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-## Random Dev Quote
+<h2 align="center" style="color:#ff69b4;">💬 Random Dev Quote</h2>
 
-> _"Every great programmer was once a beginner who struggled, failed, and kept going. Don't fear the bugs or errors—they're just steps toward mastery."_
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Every+great+programmer+was+once+a+beginner...;Embrace+the+errors,+they're+part+of+the+journey!+💻" alt="Motivational Dev Quote" />
+</p>
 
-— **Anonymous**
+<p align="center" style="color:#ff69b4;"><i>— Anonymous</i></p>
 
-## 🧪💖✨ Let's Collaborate!
+<h2 align="center" style="color:#ff69b4;">🌸✨ Let's Collaborate! ✨🌸</h2>
 
-I'm enthusiastic about collaborating on innovative projects. If you have ideas or projects related to programming, web development, or anything else that can contribute to my growth, let's discuss and explore the possibilities
+I'm passionate about creating and collaborating on meaningful, innovative tech. Whether it’s web development, digital art, or automation—let’s build something amazing together! 🎨💡
 
-### Thank you✨
+### <span style="color:#ff69b4;">Thank you for visiting! 💗</span>
 
-Happy coding! 🚀
+Feel free to explore my projects. If you have any ideas, questions, or suggestions—don’t hesitate to reach out!
+
+🌷 Happy coding! 🚀
