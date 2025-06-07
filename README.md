@@ -51,7 +51,7 @@
 
 — **Anonymous**
 
-<h2 align="center" style="color:#ff69b4;">🌸✨ Let's Collaborate! ✨🌸</h2>
+<h2>🌸✨ Let's Collaborate! ✨🌸</h2>
 
 I'm enthusiastic about collaborating on innovative projects. If you have ideas or projects related to programming, web development, or anything else that can contribute to my growth, let's discuss and explore the possibilities! 💋
 
