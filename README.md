@@ -9,9 +9,8 @@
 
 ## 🌐 My Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/michellesonio/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/michelle.sonio.16/)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/michellesonio/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/michelle.sonio.16/)  
+
 
 ---
 ## 🛠 Tech Stack
