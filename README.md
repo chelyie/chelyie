@@ -1,6 +1,5 @@
-## <h7> Hello, World! ジ </h7>
-# <h3> 💫 About Me: </h3>
-
+## <h9> Hello, World! ジ </h9>
+# <h3> 💫 About Me </h3>
 🌷 I'm currently a 4th Year student at ICCT Colleges, working on exciting projects related to AI, cloud, and web development.<br>🌐 I'm always open to learning, collaborating, and improving.<br>💻 Let’s build meaningful solutions together!<br>📬 You can contact me via Email, or connect through socials below.
 
 
