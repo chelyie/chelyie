@@ -54,7 +54,7 @@
 
 <h2 align="center" style="color:#ff69b4;">🌸✨ Let's Collaborate! ✨🌸</h2>
 
-I'm passionate about creating and collaborating on meaningful, innovative tech. Whether it’s web development, digital art, or automation—let’s build something amazing together! 🎨💡
+I'm enthusiastic about collaborating on innovative projects. If you have ideas or projects related to programming, web development, or anything else that can contribute to my growth, let's discuss and explore the possibilities! 💋
 
 ### <span style="color:#ff69b4;">Thank you for visiting! 💗</span>
 
