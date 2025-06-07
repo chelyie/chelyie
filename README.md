@@ -1,4 +1,7 @@
-# 🌸 Hello, World!
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <span style="color:#D946EF;">🌸 Hello, World!</span><br>
+  <sub><i>🌏 Kamusta, Mundo!</i></sub>
+</h1>
 
 🌷 I'm currently a 4th  Year student at ICCT Colleges, working on exciting projects related to AI, cloud, and web development.  
 🌐 I'm always open to learning, collaborating, and improving.  
