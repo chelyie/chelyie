@@ -1,8 +1,6 @@
-<!-- Typewriter + Gradient using SVG for GitHub Profile README.md -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF75D1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🌸+Hello%2C+World!;🌏+Kamusta%2C+Mundo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF75D1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🌸+Hello%2C+World!;🌏+Kamusta%2C+Mundo!" alt="Typing animation" />
 </p>
-
 
 🌷 I'm currently a 4th  Year student at ICCT Colleges, working on exciting projects related to AI, cloud, and web development.  
 🌐 I'm always open to learning, collaborating, and improving.  
