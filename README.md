@@ -46,13 +46,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<h2 align="center" style="color:#ff69b4;">💬 Random Dev Quote</h2>
+## Random Dev Quote
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Every+great+programmer+was+once+a+beginner...;Embrace+the+errors,+they're+part+of+the+journey!+💻" alt="Motivational Dev Quote" />
-</p>
+> _"Every great programmer was once a beginner who struggled, failed, and kept going. Don't fear the bugs or errors—they're just steps toward mastery."_
 
-<p align="center" style="color:#ff69b4;"><i>— Anonymous</i></p>
+— **Anonymous**
 
 <h2 align="center" style="color:#ff69b4;">🌸✨ Let's Collaborate! ✨🌸</h2>
 
